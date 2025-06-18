@@ -2,11 +2,11 @@
 
 **Time series forecasting for wind and solar energy with automated neural network model selection**
 
-<p align="center">
+<div align="center">
   <table>
     <tr>
       <td align="center">
-        <img src="assets/feature_heatmaps.png" alt="Feature Importance" width="350" height="350"><br>
+        <img src="assets/feature_heatmaps.png" alt="Feature importance" width="350" height="350"><br>
         <em>Feature Importance Heatmap</em>
       </td>
       <td align="center">
@@ -15,7 +15,7 @@
       </td>
     </tr>
   </table>
-</p>
+</div>
 
 ---
 
