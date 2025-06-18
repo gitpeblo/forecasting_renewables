@@ -3,8 +3,9 @@
 **Time series forecasting for wind and solar energy with automated neural network model selection**
 
 <div style="display: flex; gap: 10px;">
-  <img src="assets/CV.png" alt="Feature Importance Plot" width="48%">
-  <img src="assets/forecast.png" alt="SHAP Summary" width="48%">
+  <img src="assets/CV.png" alt="CV"  style="height: 200px;">
+  <img src="assets/feature_heatmaps" alt="Feature Importance" style="height: 200px;">
+  <img src="assets/forecast.png" alt="Forecast" style="height: 200px;">
 </div>
 
 ---
