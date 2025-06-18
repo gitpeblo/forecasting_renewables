@@ -3,9 +3,9 @@
 **Time series forecasting for wind and solar energy with automated neural network model selection**
 
 <p align="center">
-  <img src="assets/CV.png" alt="CV"  style="width: 250px; height: 250px;">
-  <img src="assets/feature_heatmaps.png" alt="Feature Importance" style="width: 250px; height: 250px;">
-  <img src="assets/forecast.png" alt="Forecast" style="width: 250px; height: 250px;">
+  <img src="assets/CV.png" alt="CV"  style="width: 300px; height: 250px;">
+  <img src="assets/feature_heatmaps.png" alt="Feature Importance" style="width: 300px; height: 250px;">
+  <img src="assets/forecast.png" alt="Forecast" style="width: 300px; height: 250px;">
 </p>
 
 ---
