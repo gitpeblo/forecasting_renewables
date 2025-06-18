@@ -7,11 +7,11 @@
     <tr>
       <td align="center">
         <img src="assets/feature_heatmaps.png" alt="Feature importance" width="350" height="350"><br>
-        <em>Feature Importance Heatmap</em>
+        <em>Feature importance heatmap</em>
       </td>
       <td align="center">
         <img src="assets/forecast.png" alt="Forecast" width="350" height="350"><br>
-        <em>Forecast Visualization</em>
+        <em>Forecast</em>
       </td>
     </tr>
   </table>
